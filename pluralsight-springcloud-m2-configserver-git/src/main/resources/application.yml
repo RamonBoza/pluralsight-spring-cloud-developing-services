@@ -16,3 +16,4 @@ spring:
               uri: https://github.com/RamonBoza/pluralsight-spring-cloud-developing-services-config-perf
               search-paths:
                 - 'station*'
+  
